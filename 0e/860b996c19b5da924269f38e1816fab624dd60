@@ -1,0 +1,21 @@
+test/config.test.js
+  s_e5720201168b5c::t_c23a3a303cefaa 145,153-159,162
+node.js
+  s_e5720201168b5c::t_2a95ab9d2d5e73 78,80-83,85-86,453-454
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.52-trip",
+  "base_commit_sha": "0e860b996c19b5da924269f38e1816fab624dd60",
+  "prompts": {},
+  "sessions": {
+    "s_e5720201168b5c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18091-0c6a-7c10-8b99-04407006f7b3",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "yuxuan.weng <wengyx@trip.com>"
+    }
+  }
+}
